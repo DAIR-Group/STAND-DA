@@ -1,5 +1,8 @@
 # Statistical Inference for Autoencoder-based Anomaly Detection after Representation Learning-based Domain Adaptation
 
+[![PyPI version](https://badge.fury.io/py/stand-da.svg)](https://badge.fury.io/py/stand-da)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This package offers a Statistical Inference (SI) framework tailored for Autoencoder-based anomaly detection following representation learning–driven domain adaptation. It utilizes a divide-and-conquer approach, enhanced by GPU-accelerated parallel processing, to efficiently compute the $p$-values of identified anomalies. The proposed methods deliver dependable detection by keeping the false positive rate (FPR) under control, while also maximizing the true positive rate (TPR) and effectively lowering the false negative rate (FNR).
 
 ## Requirements
