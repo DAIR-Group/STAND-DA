@@ -1,0 +1,2 @@
+index/generator/domain_critic
+1/[50, 10]/[10]
